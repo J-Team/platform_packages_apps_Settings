@@ -4914,4 +4914,7 @@
     <string name="usb_mass_storage_title">Mass storage (UMS)</string>
     <string name="usb_mass_storage_summary">Lets you transfer any files between your computer and your SD card by mounting it as a flash device</string>
 
+    <!-- Bluetooth accept all Filestypes -->
+    <string name="bluetooth_accept_all_files">Accept all file types</string>
+
 </resources>
