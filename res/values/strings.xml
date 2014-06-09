@@ -4912,7 +4912,4 @@
     <string name="adb_notify">USB debugging notify</string>
     <string name="adb_notify_summary">Display a notification when USB debugging is connected</string>
 
-    <!-- Bluetooth accept all Filestypes -->
-    <string name="bluetooth_accept_all_files">Accept all file types</string>
-
 </resources>
